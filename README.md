@@ -20,10 +20,14 @@ A modern, responsive personal website with dark mode support.
 
 ## Running the Website
 
+<<<<<<< Updated upstream
 Since this is a GitHub Pages website, it will be automatically deployed to:
 https://ibra-niang.github.io
 
 For local development, you can use any static file server or the included Ruby server:
+=======
+### Using Ruby Server
+>>>>>>> Stashed changes
 
 ```bash
 ruby server.rb
@@ -31,6 +35,13 @@ ruby server.rb
 
 Then visit `http://localhost:8000` in your browser.
 
+<<<<<<< Updated upstream
+=======
+### Using Any Static Server
+
+You can also use any static file server to host this website.
+
+>>>>>>> Stashed changes
 ## Customization
 
 - Update the content in `index.html`
@@ -42,4 +53,8 @@ Then visit `http://localhost:8000` in your browser.
 - HTML5
 - CSS3 (with CSS Variables for theming)
 - JavaScript (Vanilla)
+<<<<<<< Updated upstream
+=======
+- Ruby (for development server)
+>>>>>>> Stashed changes
 - Font Awesome (for icons)
